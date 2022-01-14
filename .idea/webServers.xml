@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e27792fd-ce97-4ca8-a44b-008cfc1d8630" name="DigestClassification">
+        <fileTransfer accessType="SFTP" host="172.30.2.148" port="22" sshConfigId="872cabfb-8275-4df1-b1cf-3a49481268de" sshConfig="bureaux@172.30.2.148:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
